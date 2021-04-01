@@ -1,3 +1,1 @@
-# petimist - members
-
-# https://github.com/parmcoder
+# petimist - funny team
